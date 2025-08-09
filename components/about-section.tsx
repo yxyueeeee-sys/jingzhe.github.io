@@ -8,17 +8,17 @@ const timelineData = [
   {
     year: "2022.09 - 至今",
     title: "浙江大学，计算机科学与技术学院，工业设计",
-    description: "GPA: 4.44/5.0 (专业排名9/47)\n英语CET-6等级考试525分\n主修课程",
+    description: "GPA: 4.49/5.0 (专业排名8/47)\n英语CET-6等级考试525分\n主修课程",
   },
   {
-    year: "2023.10",
+    year: "2025.07",
+    title: "移动应用创新赛省一等奖",
+    description: "中国高校计算机大赛-移动应用创新赛华东赛区一等奖",
+  },
+  {
+    year: "2025.05",
     title: "挑战杯省赛金奖",
     description: "项目《See you agAln》获浙江省挑战杯大赛金奖",
-  },
-  {
-    year: "2023.06",
-    title: "工业设计竞赛二等奖",
-    description: "浙江大学工业设计竞赛二等奖",
   },
   {
     year: "2023.05",
